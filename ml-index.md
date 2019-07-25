@@ -1,15 +1,21 @@
 
 
-### 1. Machine Learning Scikit Learn Samples
+### 1. Scikit Learn Examples
 
-- [Linear Models](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/LinearModels/Linear-models.ipynb)
-- Classifiers:
+##### 1.1 Linear Model
+
+- [Linear Regression](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/LinearModels/Linear-models.ipynb)
+
+##### 1.2 Classifiers:
+
   - [Logistic Regerssion](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Classifiers/Logistic/Logistic.ipynb)
   - [Decision Tree](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Classifiers/Tree/Tree.ipynb)
   - [Nearest Neighbour](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Classifiers/Neighbour/Neighbour.ipynb)
   - [SVM](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Classifiers/SVM/svm.ipynb)
   - [Neural Network](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Classifiers/NN/nn.ipynb)
-- Clustering:
+  
+##### 1.3 Clustering:
+
   - [K-means](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Clustering/1.Kmeans.ipynb)
   - [Cluster Comperison](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Clustering/2.Cluster-Comparison.ipynb)
   - [Agglomerative](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Clustering/3.Agglomerative.ipynb)
@@ -19,16 +25,18 @@
   - [Spectral](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Clustering/7.Spectral.ipynb)
   
 
+---------
 
+### 2. Udacity Assignments
 
-### 2. Machine Learning Udacity Projects
+##### 2.1 Projects
 
 - [Titanic Survival Exploration](https://nbviewer.jupyter.org/github/Vasuji/MLND-projects/blob/master/titanic_survival_exploration/titanic_survival_exploration.ipynb)
 - [Predicting Boston Housing Prices](https://nbviewer.jupyter.org/github/Vasuji/MLND-projects/blob/master/boston_housing/boston_housing.ipynb)
 - [Finding Donors for CharityML](https://nbviewer.jupyter.org/github/Vasuji/MLND-projects/blob/master/finding_donors/finding_donors.ipynb)
 - [Creating Customer Segments](https://nbviewer.jupyter.org/github/Vasuji/MLND-projects/blob/master/Customer_segments/customer_segments.ipynb)
 
-- Capstone Project: Vahicle Detection:
+##### 2.2 Capstone Project: Vahicle Detection:
   - [Data Exploration](https://nbviewer.jupyter.org/github/Vasuji/MLND-capstone/blob/master/I-Explore-data.ipynb)
   - [Feature Extraction](https://nbviewer.jupyter.org/github/Vasuji/MLND-capstone/blob/master/II-Feature-extraction.ipynb)
   - [Parameter Tuning - SVM](https://nbviewer.jupyter.org/github/Vasuji/MLND-capstone/blob/master/III-Parameter-tuning-svm.ipynb)
@@ -38,7 +46,7 @@
 
 
 
-### 3. Machine Learning NLP
+#### References
 
 
 
