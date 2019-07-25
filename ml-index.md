@@ -1,10 +1,10 @@
 
 
-### Machine Learning Scikit Learn Samples
+### 1. Machine Learning Scikit Learn Samples
 
 
 
-### Machine Learning Udacity Projects
+### 2. Machine Learning Udacity Projects
 
 - [Introduction and Foundations:Titanic Survival Exploration](https://nbviewer.jupyter.org/github/Vasuji/MLND-projects/blob/master/titanic_survival_exploration/titanic_survival_exploration.ipynb)
 - [Model Evaluation & Validation:Predicting Boston Housing Prices](https://nbviewer.jupyter.org/github/Vasuji/MLND-projects/blob/master/boston_housing/boston_housing.ipynb)
@@ -13,7 +13,7 @@
 
 
 
-### Machine Learning NLP
+### 3. Machine Learning NLP
 
 
 
