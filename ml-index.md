@@ -9,6 +9,15 @@
   - [Nearest Neighbour](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Classifiers/Neighbour/Neighbour.ipynb)
   - [SVM](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Classifiers/SVM/svm.ipynb)
   - [Neural Network](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Classifiers/NN/nn.ipynb)
+- Clustering:
+  - [K-means](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Clustering/1.Kmeans.ipynb)
+  - [Cluster Comperison](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Clustering/2.Cluster-Comparison.ipynb)
+  - [Agglomerative](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Clustering/3.Agglomerative.ipynb)
+  - [Mean-Shift](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Clustering/4.Mean-shift.ipynb)
+  -[Affinity Propagation](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Clustering/5.Affinity-Propagation.ipynb)
+  - [DBSCAN](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Clustering/6.DBSCAN.ipynb)
+  - [Spectral](https://nbviewer.jupyter.org/github/datafiction/sklearn-samples/blob/master/Clustering/7.Spectral.ipynb)
+  
 
 
 
